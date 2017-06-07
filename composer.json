@@ -1,0 +1,12 @@
+{
+	"name" : "wheatphp/demo",
+	"description" : "composer study",
+	"type" : "project",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "grd",
+			"email" : "871776828@qq.com"
+		}
+	],
+	"minimum-stability" : "dev"
+}
